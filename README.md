@@ -1,0 +1,6 @@
+##Configuraciones Iniciales del REST Server
+............................................
+##Paquetes:
+-express
+-body-parser
+............................................
